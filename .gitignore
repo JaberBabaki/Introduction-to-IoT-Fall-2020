@@ -1,0 +1,40 @@
+# Don't track content of these folders
+assigment-01/tamrin/
+assigment-02/tamrin/
+assigment-03/tamrin/
+assigment-04/tamrin/
+IoT-course/*
+iot-course-master(1)/*
+lab amirkabir/IoT-lab-v1.docx
+lab amirkabir/IoT-lab-v1.pdf
+lab amirkabir/IoT-lab-v2.docx
+IoT-software.pptx
+present_1.pptx
+site IoT.txt
+*.tmp
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+^~.*
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.so
+*.xlsx
+*.wmv
+*.mp4
+*.mov
