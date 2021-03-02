@@ -1,8 +1,8 @@
 # Don't track content of these folders
-assigment-01/tamrin/
-assigment-02/tamrin/
-assigment-03/hw/
-assigment-04/HW-04/
+assignment-01/tamrin/
+assignment-02/tamrin/
+assignment-03/hw/
+assignment-04/HW-04/
 IoT-course/*
 iot-course-master(1)/*
 lab amirkabir/IoT-lab-v1.docx
